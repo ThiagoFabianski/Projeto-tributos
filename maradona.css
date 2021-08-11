@@ -1,0 +1,54 @@
+body{
+	background: linear-gradient( 45deg, orange,blue);
+}
+
+
+.primeira{
+	padding-left: 20%;
+
+}
+
+.titulo{
+	font-size: 60px;
+	text-align: center;
+	color: white;
+
+}
+
+.paragrafo{
+	margin: 40px;
+	font-size: 35px;
+}
+
+iframe{
+	padding-left: 15%;
+	width: 950px; 
+	margin: 0 auto;
+}
+
+
+
+nav{
+	position: absolute;
+	top: 0px;
+	right: 15%;
+}
+
+nav li{
+	display: inline;
+	margin: 0 0 0 70px;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+	
+}
+
+nav a:hover{
+	color: #000000;
+	text-decoration: underline;
+}
